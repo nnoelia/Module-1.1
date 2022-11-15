@@ -7,12 +7,16 @@ So far, today has been all about course introductions and lectures. Now it's tim
 Answer the following questions:
 
 * What does FinTech mean to you? Why is it important?
+Fintech to me means the future and how we can better in
 
 * What about FinTech interests you?
+I enjoy the both worlds and having them together
 
 * Where do you expect FinTech to take you? What are you looking to do?
+Work in Blockchain
 
 * What about FinTech may be confusing? What makes sense?
+how money will progress 
 
 Write down your answers and keep them somewhere safe. In the future, we will look back at your responses to see how much you've accomplished!
 
